@@ -1,0 +1,3 @@
+This is a sample plaintext message for AES encryption testing.
+We are using different modes: CBC, CFB, and OFB.
+Information and Network Security Lab Assignment.

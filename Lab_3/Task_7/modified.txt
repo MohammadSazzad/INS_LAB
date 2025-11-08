@@ -1,0 +1,5 @@
+This is a test file for hash function analysis.
+We!will study the properties of MD5 and SHA256 hash nunctions.
+Hash functions are one-way cryptographic functions that convert input data of any size into a fixed-size output.
+The key property we are testing is the avalanche effect - a small change in input should cause a large change in output.
+This demonstrates why hash functions are suitable for integrity verification and digital signatures.

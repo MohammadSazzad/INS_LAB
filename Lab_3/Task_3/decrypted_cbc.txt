@@ -1,0 +1,5 @@
+This is a test fèÉyPÀª~OØ2è{‘∫yption corrupuion analysis.
+We need at least 64 bytes of text to properly demonstrate the effects.
+This file will be encrypted using different modes: ECB, CBC, CFB, and OFB.
+Then we will corrupt a single bit in the 30th byte and observe the decryption results.
+Understanding how different encryption modes handle errors is crucial for security.
